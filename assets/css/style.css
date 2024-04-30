@@ -9,6 +9,7 @@
   --card-border: #d9d9d9;
   --button: #3c3c3c;
   --button-variant: #a3a3a3;
+  --card-variant: #a3a3a3;
 
   /*Typography*/
   --ff-nunito-sans: "Nunito Sans", sans-serif;
@@ -434,7 +435,7 @@ the courses Section Styling
     }
   }
   article:hover {
-    background-color: var(--background-variant);
+    background-color: var(--card-variant);
     opacity: 0.9;
   }
 }
