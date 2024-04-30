@@ -69,12 +69,9 @@
   }
   
   .logoholder {
-  <<<<<<< HEAD
-  =======
     display: flex;
     align-items: center;
     justify-content: space-between;
-  >>>>>>> 99a8af112ffe06817c4f648b3754ec6db87f3eeb
     margin-left: 24px;
   }
   
